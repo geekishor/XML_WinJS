@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KISHOR-SURFACEP</Machine>
+    <WindowsUser>Kishor Bikram Oli</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>00c11a06-3fd5-44b3-8031-7abe67cc7b90</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B13D65A49F91C5837E9730059C2E1E36ECC9E39BAFC4C6DFCC361C6A656A70DF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>00c11a06-3fd5-44b3-8031-7abe67cc7b90_1.0.0.0_neutral__x003cnfqv1qf0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>00c11a06-3fd5-44b3-8031-7abe67cc7b90_x003cnfqv1qf0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>00c11a06-3fd5-44b3-8031-7abe67cc7b90</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kishor Bikram Oli</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-06T18:03:25.298</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinRuntimes\bin\Debug\WinRuntimes.winmd">
+      <PackagePath>WinRuntimes.winmd</PackagePath>
+      <Modified>2016-05-06T18:03:18.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinRuntimes\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-03-14T15:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-05-06T18:05:07.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+      <Modified>2016-05-06T18:08:20.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-07-06T16:09:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\test.xml">
+      <PackagePath>test.xml</PackagePath>
+      <Modified>2016-05-06T18:02:18.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-07-06T16:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\WinJS_XML\WinJS_XML\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-06T18:01:18.314</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
